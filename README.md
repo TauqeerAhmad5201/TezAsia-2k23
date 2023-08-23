@@ -47,3 +47,5 @@ After the issue is assigned, make a [Pull Request](https://docs.github.com/en/pu
 2. Make all your code added to your forked repo, and then push the code to your main branch after your project is complete.
 3. Make sure to push files to your folder only.
 4. Changing or doing any edits to other folders is strictly prohibited. 
+
+Hello this is PR merge
